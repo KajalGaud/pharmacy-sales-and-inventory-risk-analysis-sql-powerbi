@@ -168,7 +168,8 @@ The combination of SQL analysis and Power BI visualization converts transaction-
 
 ## Author
 **Kajal Gaud**
-Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst  
+
+Final Year B.Tech Computer Science And Engineering Student | Aspiring Data Analyst  
 ### Contact
 - LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
 - Email: kgaud252@gmail.com
